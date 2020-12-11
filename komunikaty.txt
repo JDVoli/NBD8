@@ -1,0 +1,5 @@
+Dodawany obiekt do bazy: {"name":"Marlon Brando","age":80,"isStudent":false,"nationality":"USA"}
+
+Pobrany obiekt po dodaniu: {"name":"Marlon Brando","age":80,"isStudent":false,"nationality":"USA"}
+Pobrany obiekt po zaktualizowaniu: {"name":"Marlon Brando","age":80,"isStudent":false,"nationality":"USA","isDead":true}
+Pobrany obiekt po usunieciu: null
